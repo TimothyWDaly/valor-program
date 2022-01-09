@@ -338,7 +338,7 @@ export const Privacy = (props) => {
                         </div>
                     </Accordion>
                 </section>
-                <p>Updated: Jan 1, 2021</p>
+                <p>Updated: Jan 1, 2022 by Brighton Consulting</p>
             </ContentBlock>
             <style jsx>
                 {`
