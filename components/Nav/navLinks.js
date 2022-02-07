@@ -22,6 +22,11 @@ const NavLinks = () => {
                     </Link>
                 </li>
                 <li>
+                    <Link href="/militarynews">
+                        <a title="News">News</a>
+                    </Link>
+                </li>
+                <li>
                     <Link href="/publications">
                         <a title="Publications">Publications</a>
                     </Link>
