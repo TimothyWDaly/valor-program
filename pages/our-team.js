@@ -45,30 +45,6 @@ const TeamPage = (props) => {
                         Civilian Service Award.
                     </p>
                 </TeamCard>
-                <TeamCard image="/team/jessica-r.jpg" title="Jessica R. Watrous, Ph.D.">
-                    <p>
-                        I am a clinical health psychologist, division head of the VALOR
-                        Program, and the co-principal investigator for the Wounded Warrior
-                        Recovery Project (WWRP).
-                    </p>
-                    <p>
-                        I received my Ph.D. in clinical psychology from the University of
-                        Memphis, and completed my clinical internship and postdoctoral
-                        fellowship at the VA San Diego Healthcare System and University of
-                        California, San Diego. My research and clinical work has primarily
-                        focused on assessing and helping people change health behaviors
-                        like substance use, physical activity, and healthful eating to
-                        improve quality of life as well as mental and physical health.
-                    </p>
-                    <p>
-                        Much of my career has been dedicated to working with military
-                        personnel and veterans with the aim of understanding their unique
-                        circumstances and supporting them in living their best lives. In
-                        addition to a deep sense of responsibility to our nation's
-                        military and veterans, many of my family members and close friends
-                        have served, making my work of personal interest as well.
-                    </p>
-                </TeamCard>
                 <TeamCard title="Cameron T. McCabe, PhD" image="/team/cameron-t.jpg">
                     <p>
                         I am a research psychologist, and I've been a member of the team
